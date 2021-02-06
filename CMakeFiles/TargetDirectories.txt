@@ -1,0 +1,3 @@
+/home/aidan/Desktop/cpptest/CMakeFiles/rebuild_cache.dir
+/home/aidan/Desktop/cpptest/CMakeFiles/edit_cache.dir
+/home/aidan/Desktop/cpptest/CMakeFiles/processManager.dir

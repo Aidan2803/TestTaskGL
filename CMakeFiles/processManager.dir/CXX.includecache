@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aidan/Desktop/cpptest/testTestTask_processManager.cpp
+iostream
+-
+stdlib.h
+-
+errno.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+cstring
+-
+ctime
+-
+csignal
+-
+
